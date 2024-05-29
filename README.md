@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AREVAL0LAUTARO
 - 👀 I am interested in creating a data community to help first in Mendoza, my province, and from there to the world.
-- 🌱 I’m currently learning Data Science.
+- 🌱 I’m currently learning Data Science and Machine Learning.
 - 💞️ I’m looking to collaborate on open code proyects to inprove my knowledge.
 - 📫 How to reach me:
   LINKEDIN:www.linkedin.com/in/arevalodev
