@@ -6,7 +6,7 @@
   LINKEDIN:www.linkedin.com/in/arevalodev
   EMAIL: AREVALODEV@HOTMAIL.COM
 - 😄 Pronouns: ESP: "EL"  ENG:"HE"
-- ⚡ Fun fact: GYM, ANIME AND BUSINESS
+- ⚡ Fun fact: GYM, RUGBY, ANIME AND BUSINESS
   !!!!!!! “the fact kills the story”
 
 <!---
